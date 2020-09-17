@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lets Get Checked</string>
+    <string name="country_name">Country Name</string>
+    <string name="country_capital">Country Capital</string>
+    <string name="region_of_country">Region of Country</string>
+    <string name="country_heading">Name : </string>
+    <string name="capital">Capital : </string>
+    <string name="region">"Region : "</string>
+    <string name="search_country">Search Country</string>
+    <string name="country_details">Country Details</string>
+    <string name="name">name</string>
+
+    <string name="sub_region">Sub-Region : </string>
+    <string name="calling_code">Calling Code : </string>
+    <string name="time_zone">Time Zone : </string>
+    <string name="native_name">Native Name : </string>
+    <string name="Population">Population : </string>
+</resources>
