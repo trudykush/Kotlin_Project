@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LetsGetChecked
 LetsGetChecked – Documentation
 This project contains list of all countries in the world with some additional details related to each country.
@@ -58,4 +58,3 @@ Espresso test file is present under SearchTextEspresso class inside com.kush.let
 
 =======
 # LetsGetChecked
->>>>>>> 407c9735fdbbd47b97fe7cf5bfc7a3c3b9162874
