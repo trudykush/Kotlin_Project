@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LetsGetChecked
 LetsGetChecked – Documentation
 This project contains list of all countries in the world with some additional details related to each country.
@@ -55,3 +56,6 @@ Espresso testing follow the path of:
 Open application -> click on search button -> search for country (in this case, it’s Albania) -> click on the result -> go to country details page -> check whether the Country Name is matching to the one searched -> if yes, Test Passed. 
 Espresso test file is present under SearchTextEspresso class inside com.kush.letsgetchecked (androidTest) package of project.
 
+=======
+# LetsGetChecked
+>>>>>>> 407c9735fdbbd47b97fe7cf5bfc7a3c3b9162874
