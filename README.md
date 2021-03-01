@@ -1,6 +1,6 @@
 
-# LetsGetChecked
-LetsGetChecked – Documentation
+# Kotlin_Practice
+Kotlin_Practice – Documentation
 This project contains list of all countries in the world with some additional details related to each country.
 Project is made in Android Studio 4.0.1
 Languages used: Kotlin, XML
