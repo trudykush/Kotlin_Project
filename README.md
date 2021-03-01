@@ -57,4 +57,4 @@ Open application -> click on search button -> search for country (in this case, 
 Espresso test file is present under SearchTextEspresso class inside com.kush.letsgetchecked (androidTest) package of project.
 
 =======
-# LetsGetChecked
+# Kotlin_Practice
